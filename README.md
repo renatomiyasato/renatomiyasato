@@ -2,7 +2,7 @@
 
  My name is Renato Miyasato, i'm from Brazil! 🇧🇷.  I'm a computer science student who has been practicing to be a web developer. 💻
 ###  🌍 "Nada neste mundo pode substituir a persistência."  🧠
-- 📍 From Santos-SP.
+
 -  💻 Student at UNIP.
 
 ###  SKILLS 😎🎉
